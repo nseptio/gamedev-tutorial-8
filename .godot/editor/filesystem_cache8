@@ -1,6 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1747366196
-default_env.tres::Environment::4025577613367819480::1747365837::0::1::::<><>::
+::res://::1747377307
+default_env.tres::Environment::4025577613367819480::1747366669::0::1::::<><>::
 icon.png::CompressedTexture2D::818593585872068116::1746866179::1746866324::1::::<><>::
 ::res://assets/::1746866324
 Familiar Looking Rocket.png::CompressedTexture2D::1252990777476248384::1746866178::1746866324::1::::<><>::
@@ -461,7 +461,7 @@ waterTop_low.png::CompressedTexture2D::5621808656248236198::1746866179::17468663
 weight.png::CompressedTexture2D::2744589388041299644::1746866179::1746866327::1::::<><>::
 weightAttached.png::CompressedTexture2D::5076131259088991936::1746866179::1746866327::1::::<><>::
 window.png::CompressedTexture2D::5360959231995845105::1746866179::1746866327::1::::<><>::
-::res://assets/kenney_platformerpack/Spritesheets/::1747366196
+::res://assets/kenney_platformerpack/Spritesheets/::1747366197
 brickGrey_small.png::CompressedTexture2D::8240160727032477266::1746866178::1747366197::1::::<><>::
 spritesheet_alien.png::CompressedTexture2D::9083522576726410353::1746866179::1746866327::1::::<><>::
 spritesheet_complete.png::CompressedTexture2D::7980009710022459650::1746866179::1746866330::1::::<><>::
@@ -492,11 +492,11 @@ vector_hud.svg::CompressedTexture2D::5290694548974737948::1746866179::1746866325
 vector_tiles.svg::CompressedTexture2D::7228755451229237300::1746866179::1746866325::1::::<><>::
 ::res://assets/Tileset/::1746866178
 StoneWorld.tres::TileSet::-1::1746866178::0::1::::<><>::res://Assets/kenney_platformerpack/Spritesheets/spritesheet_gr_stone.png
-::res://scenes/::1747366196
+::res://scenes/::1747366669
 Area Trigger.tscn::PackedScene::-1::1746866179::0::1::::<><>::res://Scripts/Area2D.gd
 Enemy.tscn::PackedScene::4863420197238078235::1746866179::0::1::::<><>::res://Scripts/Enemy.gd<>uid://d3sjm662mv7dm::::res://Assets/kenney_platformerpack/PNG/Enemies/mouse.png<>res://scenes/Area Trigger.tscn
-Level 1.tscn::PackedScene::9126221497677198461::1747365837::0::1::::<><>::uid://beg452kqkfydx::::res://scenes/Player.tscn<>uid://cbrrsfnbg3p0g::::res://scenes/Spawner.tscn<>uid://r37ts0nyebjk::::res://assets/Familiar Looking Rocket.png<>uid://dd7fcijo64bic::::res://assets/kenney_platformerpack/Spritesheets/spritesheet_gr_planet.png<>res://scenes/Area Trigger.tscn
-Player.tscn::PackedScene::2681378125696016165::1747366196::0::1::::<><>::res://Scripts/Player.gd<>uid://d2oej36eq8vvl::::res://assets/kenney_platformerpack/Spritesheets/spritesheet_alien.png<>uid://dpnuijhsx0eak::::res://assets/kenney_platformerpack/Spritesheets/brickGrey_small.png
+Level 1.tscn::PackedScene::9126221497677198461::1747366669::0::1::::<><>::uid://beg452kqkfydx::::res://scenes/Player.tscn<>uid://cbrrsfnbg3p0g::::res://scenes/Spawner.tscn<>uid://cim5hk5l4edl6::::res://assets/kenney_platformerpack/PNG/Tiles/window.png<>uid://r37ts0nyebjk::::res://assets/Familiar Looking Rocket.png<>uid://dd7fcijo64bic::::res://assets/kenney_platformerpack/Spritesheets/spritesheet_gr_planet.png<>res://scenes/Area Trigger.tscn
+Player.tscn::PackedScene::2681378125696016165::1747366498::0::1::::<><>::res://Scripts/Player.gd<>uid://d2oej36eq8vvl::::res://assets/kenney_platformerpack/Spritesheets/spritesheet_alien.png<>uid://dpnuijhsx0eak::::res://assets/kenney_platformerpack/Spritesheets/brickGrey_small.png
 Spawner.tscn::PackedScene::4879189248764348980::1746866179::0::1::::<><>::res://Scripts/Spawner.gd
 Win Screen.tscn::PackedScene::-1::1746866179::0::1::::<><>::res://Assets/Keanu.png
 ::res://scripts/::1747364653
