@@ -8,8 +8,7 @@ const UP = Vector2(0,-1)
 
 @onready var animator = self.get_node("Animator")
 @onready var sprite = self.get_node("Sprite2D")
-@onready var particle = $GPUParticles2D
-
+@onready var particle: GPUParticles2D = $GPUParticles2D
 
 func get_input():
 	velocity.x = 0
@@ -19,10 +18,14 @@ func get_input():
 		velocity.x += speed
 		if is_on_floor():
 			particle.set_emitting(true)
+		else:
+			particle.set_emitting(false)
 	elif Input.is_action_pressed('left'):
 		velocity.x -= speed
 		if is_on_floor():
 			particle.set_emitting(true)
+		else:
+			particle.set_emitting(false)
 	else:
 		particle.set_emitting(false)
 
